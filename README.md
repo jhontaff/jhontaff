@@ -29,7 +29,7 @@ A personal productivity assistant (tasks, finances, habits, calendar) with a con
 ### 💼 Professional work
 
 **[Downline](https://downline.com.co/)** · Frontend Developer · *Acquired*
-Educational PWA that supports early childhood learning through interactive activities, visual recognition, audio and gamification. I built the learning activities: a set of interactive games for kids, developed in Angular.
+- Educational PWA that supports early childhood learning through interactive activities, visual recognition, audio and gamification. I built the learning activities: a set of interactive games for kids, developed in Angular.
 
 ---
 
