@@ -18,11 +18,11 @@ A personal productivity assistant (tasks, finances, habits, calendar) with a con
 
 ### 🛠️ Stack
 
-**Backend:** Java · Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL · Flyway · REST APIs
-**Frontend:** Angular · TypeScript · SCSS · PWA
-**AI:** LLM agents · tool calling · Gemini API
-**DevOps:** Docker · Nginx · GitHub Actions · Linux VPS
-**Testing:** JUnit 5 · Mockito · Testcontainers
+- **Backend:** Java · Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL · Flyway · REST APIs
+- **Frontend:** Angular · TypeScript · SCSS · PWA
+- **AI:** LLM agents · tool calling · Gemini API
+- **DevOps:** Docker · Nginx · GitHub Actions · Linux VPS
+- **Testing:** JUnit 5 · Mockito · Testcontainers
 
 ---
 
