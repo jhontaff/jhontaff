@@ -26,6 +26,13 @@ A personal productivity assistant (tasks, finances, habits, calendar) with a con
 
 ---
 
+### 💼 Professional work
+
+**[Downline](https://downline.com.co/)** · Frontend Developer · *Acquired*
+Educational PWA that supports early childhood learning through interactive activities, visual recognition, audio and gamification. I built the learning activities: a set of interactive games for kids, developed in Angular.
+
+---
+
 ### 📂 Other projects
 
 - [appointment-manager-api](https://github.com/jhontaff/appointment-manager-api) + [web](https://github.com/jhontaff/appointment-manager-web): medical appointment system with business rules, validations and layered architecture.
@@ -34,5 +41,4 @@ A personal productivity assistant (tasks, finances, habits, calendar) with a con
 ---
 
 ### 📫 Contact
-
 [LinkedIn](https://www.linkedin.com/in/jhontamos) · [alignassistant.com](https://alignassistant.com/)
